@@ -1,7 +1,3 @@
-# LeetCode-Study
-
-</br>
-
 ## My Purpose
 - Practice and study for algorithm 😁
 - Improve solving my tech skills 🤗
