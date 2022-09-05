@@ -4,8 +4,8 @@
 
 ## My Purpose
 - Practice and study for algorithm 😁
-- improve solving my tech skills 🤗
-- make a habit of solving algorithms (at least once a week)
+- Improve solving my tech skills 🤗
+- Make a habit of solving algorithms (at least once a week)
 
 </br>
 
