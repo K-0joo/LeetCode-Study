@@ -12,3 +12,27 @@
 
 ## just sentence
 `I will be the amazing good coder 😎`
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/K-0joo/LeetCode-Study/tree/master/0746-prefix-and-suffix-search) |
+## Hash Table
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/K-0joo/LeetCode-Study/tree/master/0746-prefix-and-suffix-search) |
+## String
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/K-0joo/LeetCode-Study/tree/master/0746-prefix-and-suffix-search) |
+## Design
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/K-0joo/LeetCode-Study/tree/master/0746-prefix-and-suffix-search) |
+## Trie
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/K-0joo/LeetCode-Study/tree/master/0746-prefix-and-suffix-search) |
+<!---LeetCode Topics End-->
