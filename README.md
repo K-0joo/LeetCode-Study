@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/K-0joo/LeetCode-Study/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/K-0joo/LeetCode-Study/tree/master/0399-evaluate-division) |
 | [0746-prefix-and-suffix-search](https://github.com/K-0joo/LeetCode-Study/tree/master/0746-prefix-and-suffix-search) |
 ## Hash Table
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/K-0joo/LeetCode-Study/tree/master/0399-evaluate-division) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/K-0joo/LeetCode-Study/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/K-0joo/LeetCode-Study/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
