@@ -20,6 +20,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/K-0joo/LeetCode-Study/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/K-0joo/LeetCode-Study/tree/master/0399-evaluate-division) |
+| [0436-find-right-interval](https://github.com/K-0joo/LeetCode-Study/tree/master/0436-find-right-interval) |
 | [0746-prefix-and-suffix-search](https://github.com/K-0joo/LeetCode-Study/tree/master/0746-prefix-and-suffix-search) |
 ## Hash Table
 |  |
@@ -62,8 +63,13 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/K-0joo/LeetCode-Study/tree/master/0300-longest-increasing-subsequence) |
+| [0436-find-right-interval](https://github.com/K-0joo/LeetCode-Study/tree/master/0436-find-right-interval) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/K-0joo/LeetCode-Study/tree/master/0300-longest-increasing-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/K-0joo/LeetCode-Study/tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->
